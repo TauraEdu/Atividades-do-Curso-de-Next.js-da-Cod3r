@@ -1,0 +1,1 @@
+# Atividades-do-Curso-de-Next.js-da-Cod3r
