@@ -1,3 +1,4 @@
 export default function segundo() {
-    return "Segundo";
+    const newLocal = "Segundo";
+    return newLocal;
 }
